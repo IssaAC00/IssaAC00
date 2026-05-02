@@ -161,13 +161,6 @@ I'm deeply passionate about **IoT Systems & Infrastructure** with expertise in:
 - ✨ Visual effects & game polish
 - 🎭 Character & environment design collaboration
 
----
-
-## 📊 GitHub Analytics
-
-[![IssaAC00's GitHub Stats](https://github-readme-stats.eight-theta.vercel.app/api?username=IssaAC00&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/IssaAC00)
-
-[![Top Languages](https://github-readme-stats.eight-theta.vercel.app/api/top-langs/?username=IssaAC00&layout=compact&langs_count=8&theme=radical)](https://github.com/IssaAC00)
 
 ---
 
@@ -189,12 +182,9 @@ I'm deeply passionate about **IoT Systems & Infrastructure** with expertise in:
 
 If you want to reach out about **IoT projects, full-stack development, game development, or collaboration**, just ping me!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issaac24/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:algueracmp@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IssaAC00)
 [![itch.io Badge](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://issaac22.itch.io)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/issaac24)
-
 
 ---
 
