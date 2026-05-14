@@ -76,48 +76,6 @@ I'm deeply passionate about **IoT Systems & Infrastructure** with expertise in:
 
 [Play on itch.io](https://issaac22.itch.io/upsidedown-myster)
 
----
-
-#### **Candy Skeleton** - Puzzle Game
-- 🍬 **Genre:** Puzzle Platform
-- 🧩 **Design:** Challenging puzzle mechanics, player skill progression
-- 🎯 **Gameplay Loop:** Engaging core mechanics, difficulty curves
-
-[Play on itch.io](https://issaac22.itch.io/candy-skeleton)
-
----
-
-#### **Ashes of Exodus** - Platformer
-> "Un destino incierto, una esperanza inquebrantable."
-- 🎮 **Genre:** Platformer / Adventure
-- 🌍 **Narrative:** Post-apocalyptic journey with hope-driven story
-- ⚙️ **Mechanics:** Movement, jumping, environmental puzzles
-- 🎵 **Atmosphere:** Music & sound design for immersion
-
-[Play on itch.io](https://issaac22.itch.io/ashes-of-exodus)
-
----
-
-#### **Reliquias del Pasado: Un Viaje entre Recuerdos**
-> "A Journey Through Memories"
-- 🕰️ **Concept:** Memory-exploration narrative experience
-- 🎨 **Visual Storytelling:** Environmental narrative, visual metaphors
-- 💭 **Emotional Design:** Contemplative gameplay experience
-
-[Play on itch.io](https://issaac22.itch.io/reliquias-del-pasado-un-viaje-entre-recuerdos)
-
----
-
-### **Collaborative Projects**
-
-#### **Flames of Liberation** - Cooperative Bullet Hell
-> "Guard the Torch, Defeat the Filibusters: A Cooperative Bullet Hell Adventure!"
-- 🔥 **Genre:** Action / Bullet Hell
-- 👥 **Multiplayer:** Cooperative gameplay mechanics
-- ⚔️ **Combat System:** Intense action sequences
-- 🎯 **Game Feel:** Polish & satisfying mechanics
-
-[Play on itch.io](https://rebbox.itch.io/flames-of-liberation)
 
 ---
 
@@ -127,39 +85,6 @@ I'm deeply passionate about **IoT Systems & Infrastructure** with expertise in:
 - 🧠 **Narrative:** Psychological exploration themes
 
 [Play on itch.io](https://aldokler.itch.io/annies-parasomnia)
-
----
-
-
-## 🎮 Game Design Skills & Expertise
-
-### **Gameplay Design**
-- ✅ Core mechanic development & iteration
-- ✅ Level design & difficulty balancing
-- ✅ Player feedback loops & game feel
-- ✅ Progression systems & reward structures
-- ✅ Playtesting & balance refinement
-
-### **Narrative & Story Design**
-- 📖 Character development & dialogue
-- 🎭 Branching narratives & multiple endings
-- 🌍 World-building & lore creation
-- 💭 Emotional pacing & story beats
-- 🗣️ Spanish-language narrative (native speaker advantage)
-
-### **Technical Implementation**
-- 🔧 GDScript scripting for game mechanics
-- 🎨 Scene management & prefab systems
-- ⚙️ State machines for AI & gameplay states
-- 💾 Save/load systems & data persistence
-- 🎮 Input handling & player controls
-
-### **Artistic Direction**
-- 🎨 Visual style definition & consistency
-- 🖼️ UI/UX design for game interfaces
-- 🌈 Color theory & visual hierarchy
-- ✨ Visual effects & game polish
-- 🎭 Character & environment design collaboration
 
 
 ---
